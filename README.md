@@ -1,4 +1,4 @@
-# Parallax Icons
+# Scrolling Icons
 
 When browsing some sample sites on
 [CSS Nectar](https://cssnectar.com/css-gallery/nominees/categories/portfolio/),
